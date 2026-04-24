@@ -1,0 +1,18 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec.bak
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ValkYNet local data (never commit these)
+.valkynet_config.json
+.valkynet_keys.json
+.valkynet_audit.json
+
+# OS junk
+.DS_Store
+Thumbs.db
