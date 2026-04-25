@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Release](https://img.shields.io/github/v/release/hydr0cher/valkynet-cryptshield?style=flat-square&color=1D6FE8&label=Latest%20Release)](https://github.com/hydr0cher/valkynet-cryptshield/releases/latest)
+[![Release](https://img.shields.io/github/v/release/hydr0cher/valkynet-cryptshield?style=flat-square&color=1D6FE8&label=Latest%20Release)](https://github.com/hydr0cher/ValkYNet_CryptShield/releases/tag/v2.0.0)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D4?style=flat-square&logo=windows)](https://github.com/hydr0cher/valkynet-cryptshield/releases/latest)
 [![Cipher](https://img.shields.io/badge/Cipher-AES--256--GCM-00C896?style=flat-square)](https://en.wikipedia.org/wiki/Galois/Counter_Mode)
 [![No Install](https://img.shields.io/badge/No%20Install-Portable%20.exe-F0A030?style=flat-square)](#download)
